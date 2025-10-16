@@ -20,3 +20,11 @@ and maybe more stuff if I need it
 
 # how do I use it?
 download and import the v5.js file into your p5.js project
+in your index.html file, place the line
+```html
+  <script src="v5.js"></script>
+```
+before your sketch, but after p5.js
+(THIS REQUIRES P5.JS, V5.JS IS AN ADDON, IT DOES NOT REPLACE P5.JS)
+
+once you've done that, go wild, and good luck
