@@ -25,6 +25,7 @@ in your index.html file, place the line
   <script src="v5.js"></script>
 ```
 before your sketch, but after p5.js
+
 (THIS REQUIRES P5.JS, V5.JS IS AN ADDON, IT DOES NOT REPLACE P5.JS)
 
 once you've done that, go wild, and good luck
